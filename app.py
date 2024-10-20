@@ -15,7 +15,7 @@ import logging    # 导入 logging 模块
 background_css = """
 <style>
     .stApp {
-        background-color: rgba(100, 149, 237, 1);  /* Cornflower Blue with 69% transparency */
+        background-color: rgba(100, 149, 237, 0.2);  /* Cornflower Blue with 69% transparency */
     }
 </style>
 """
